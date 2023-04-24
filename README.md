@@ -1,4 +1,4 @@
-<h2 align="center">👋 &nbsp;Oii, eu sou a Ana Luisa! </h2>
+<h3 align="center">👋 &nbsp;Oii, eu sou a Ana Luisa! </h3>
 <p align="center">
 <a href="https://www.instagram.com/analufav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/analuisafav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 
 </p>
 
-<h2> 👩🏻‍💻 &nbsp;About Me </h2>
+<h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 👩🏻‍💻 &nbsp; Apaixonada por computação desde criança, principalmente jogos eletrônicos! Sempre foi o meu hobby favorito.
 - 🎮 &nbsp; O que antes era somente um hobby, se tornou meu trabalho: durante três anos atuei como streamer (transmissão de conteúdos ao vivo) de jogos. <br>
@@ -18,7 +18,7 @@
 - 🦋 &nbsp; Sou apaixonada por animais! O que me levou a, antes de seguir o caminho da tecnologia, me tornar uma bióloga 💚
 - 🐱 &nbsp; Amo gatos e cachorros 🐶
 
-<h2> 🛠 &nbsp;Dev Skills</h2>
+<h3> 🛠 &nbsp;Dev Skills</h3>
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3498DB?&style=for-the-badge&logo=css3&logoColor=white)
