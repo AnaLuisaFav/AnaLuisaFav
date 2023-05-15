@@ -9,7 +9,6 @@
 </p>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
 - 👩🏻‍💻 &nbsp; Apaixonada por computação desde criança, principalmente jogos eletrônicos! Sempre foi o meu hobby favorito.<br> 
 - 🎮 &nbsp; O que antes era somente um hobby, se tornou meu trabalho: durante três anos atuei como streamer (transmissão de conteúdos ao vivo) de jogos. <br>
 - 💻 &nbsp; Durante esse período, eu tive uma breve experiência com programação, mas o suficiente para me cativar e despertar mais ainda meu interesse na área! <br>
@@ -18,7 +17,7 @@
 - 🦋 &nbsp; Sou apaixonada por animais! O que me levou a, antes de seguir o caminho da tecnologia, me tornar uma bióloga 💚<br>
 - 🐱 &nbsp; Amo gatos e cachorros 🐶 
 
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
 
 <h3> 🛠 &nbsp;Dev Skills</h3>
 
