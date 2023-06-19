@@ -8,12 +8,13 @@
 
 </p>
 
-<h3> 👩🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩🏻‍💻&nbsp;About Me </h3>
 - 👩🏻‍💻 &nbsp; Apaixonada por computação desde criança, principalmente jogos eletrônicos! Sempre foi o meu hobby favorito.<br> 
 - 🎮 &nbsp; O que antes era somente um hobby, se tornou meu trabalho: durante três anos atuei como streamer (transmissão de conteúdos ao vivo) de jogos. <br>
 - 💻 &nbsp; Durante esse período, eu tive uma breve experiência com programação, mas o suficiente para me cativar e despertar mais ainda meu interesse na área! <br>
 - 📚 &nbsp; Suspendi as streams - pois era um trabalho que demandava muito tempo - para me dedicar ao meu interesse pela TI. Iniciei um curso de Desenvolvimento Web e a faculdade de ADS, e assim me tornei uma desenvolvedora e futura analista de sistemas! - continuo jogando, mas voltando a ser apenas um momento de diversão. <br>
-- 🎯 &nbsp; Atualmente estou em busca de estágio para expandir meus horizontes profissionais na área de tecnologia, com grande disposição para o aprendizado! <br>
+- 🎯 &nbsp; Atualmente estou atuando como estagiária na área de QA!<br>
+  <h3> 💁🏻‍♀️&nbsp;Curiosities </h3>
 - 🦋 &nbsp; Sou apaixonada por animais! O que me levou a, antes de seguir o caminho da tecnologia, me tornar uma bióloga 💚<br>
 - 🐱 &nbsp; Amo gatos e cachorros 🐶 
 
