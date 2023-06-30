@@ -15,7 +15,7 @@
 - 📚 &nbsp; Suspendi as streams - pois era um trabalho que demandava muito tempo - para me dedicar ao meu interesse pela TI. Iniciei um curso de Desenvolvimento Web e a faculdade de ADS, e assim me tornei uma desenvolvedora e futura analista de sistemas! - continuo jogando, mas voltando a ser apenas um momento de diversão. <br>
 - 🎯 &nbsp; Atualmente estou atuando como estagiária na área de QA!<br>
   <h3> 💁🏻‍♀️&nbsp;Curiosities </h3>
-- 🦋 &nbsp; Sou apaixonada por animais! O que me levou a, antes de seguir o caminho da tecnologia, me tornar uma bióloga 💚<br>
+- 🦋 &nbsp; Antes de seguir o caminho da tecnologia, me formei em biologia 💚<br>
 - 🐱 &nbsp; Amo gatos e cachorros 🐶 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
