@@ -14,7 +14,7 @@
 - 💻 &nbsp; Durante esse período, eu tive uma breve experiência com programação, mas o suficiente para me cativar e despertar mais ainda meu interesse na área! <br>
 - 📚 &nbsp; Suspendi as streams - pois era um trabalho que demandava muito tempo - para me dedicar ao meu interesse pela TI. Iniciei um curso de Desenvolvimento Web e a faculdade de ADS, e assim me tornei uma desenvolvedora e futura analista de sistemas! - continuo jogando, mas voltando a ser apenas um momento de diversão. <br>
 - 🎯 &nbsp; Atualmente estou atuando como estagiária na área de QA!<br>
-  <h3> 💁🏻‍♀️&nbsp;Curiosities </h3>
+  <h3> 💁🏻‍♀&nbsp;Curiosities </h3>
 - 🦋 &nbsp; Antes de seguir o caminho da tecnologia, me formei em biologia 💚<br>
 - 🐱 &nbsp; Amo gatos e cachorros 🐶 
 
