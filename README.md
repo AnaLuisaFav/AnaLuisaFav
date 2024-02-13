@@ -7,12 +7,13 @@
   <a href="https://www.twitch.tv/annielugames" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Twitch-brightgreen?style=flat&logo=twitch&logoColor=white&color=%236441a5&link=https%3A%2F%2Fwww.twitch.tv%2Fannielugames"></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
+<h3> ~ About me </h3>
 👩🏻‍💻 &nbsp; Passionate about computers since childhood, especially video games! It has always been my favorite hobby.<br>
 🎮 &nbsp; What was once just a hobby, became my job: for three years, I worked as a streamer (live content broadcasting) for games.<br>
 💻 &nbsp; During that time, I had a brief experience with programming, but it was enough to captivate me and further ignite my interest in the field!<br>
 📚 &nbsp; I suspended the streams - as it was a time-consuming job - to pursue my interest in IT. I started a Web Development course and began studying Computer Science, thus becoming a developer and a future systems analyst! - I still play games, but it's back to being just a fun pastime.<br>
 🎯 &nbsp; I am currently working as an intern in the quality assurance (tester) field!<br>
-<h3> 💁🏻‍♀&nbsp;Curiosities </h3>
+<h3> ~ Curiosities </h3>
 🦋 &nbsp; Before following the path of technology, I graduated in biology 💚<br>
 🐱 &nbsp; I love cats and dogs 🐶
 
