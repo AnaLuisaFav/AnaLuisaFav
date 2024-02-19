@@ -6,7 +6,8 @@
   <a href="https://www.frontendmentor.io/profile/AnaLuisaFav" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Mentor-brightgreen?style=flat&logo=frontend%20mentor&logoColor=white&color=rgb(106%20190%20205)&link=https%3A%2F%2Fwww.twitch.tv%2Fannielugames"></a>
   <a href="https://www.twitch.tv/annielugames" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Twitch-brightgreen?style=flat&logo=twitch&logoColor=white&color=%236441a5&link=https%3A%2F%2Fwww.twitch.tv%2Fannielugames"></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/AnaLuisaFav/AnaLuisaFav/assets/125583157/0e2748e2-1923-4ae9-9121-cce87b2346b9" />
+
 <h3> ~ About me </h3>
 👩🏻‍💻 &nbsp; Passionate about computers since childhood, especially video games! It has always been my favorite hobby.<br>
 🎮 &nbsp; What was once just a hobby, became my job: for three years, I worked as a streamer (live content broadcasting) for games.<br>
