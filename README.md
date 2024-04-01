@@ -9,11 +9,7 @@
 <img align="right" alt="Coding" width="350" src="https://github.com/AnaLuisaFav/AnaLuisaFav/assets/125583157/0e2748e2-1923-4ae9-9121-cce87b2346b9" />
 
 <h3> ~ About me </h3>
-👩🏻‍💻 &nbsp; Passionate about computers since childhood, especially video games! It has always been my favorite hobby.<br>
-🎮 &nbsp; What was once just a hobby, became my job: for three years, I worked as a streamer (live content broadcasting).<br>
-💻 &nbsp; During that time, I had a brief experience with programming, but it was enough to captivate me and further ignite my interest in the field!<br>
-📚 &nbsp; So I followed my interest in IT. I started a Web Development course and began studying Systems Analysis and Development, thus becoming a developer and a future systems analyst! - I still play games, but now just as a fun pastime.<br>
-🎯 &nbsp; I am currently working as an intern in the quality assurance (tester) field!<br>
+👩🏻‍💻 &nbsp; Systems Analysis and Development student 4/5, working as an intern in the quality area (QA), focusing on test automation in python. Additionally, I have front-end development skills. I'm constantly looking to learn more, both in QA and development. I always dedicate myself to studying something new in my area, every day. 
 <h3> ~ Curiosities </h3>
 🦋 &nbsp; Before following the path of technology, I graduated in biology 💚<br>
 🐱 &nbsp; I love cats and dogs 🐶
