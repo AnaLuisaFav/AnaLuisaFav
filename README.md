@@ -6,13 +6,13 @@
   <a href="https://www.frontendmentor.io/profile/AnaLuisaFav" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Frontend_Mentor-brightgreen?style=flat&logo=frontend%20mentor&logoColor=white&color=rgb(106%20190%20205)&link=https%3A%2F%2Fwww.twitch.tv%2Fannielugames"></a>
   <a href="https://www.twitch.tv/annielugames" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Twitch-brightgreen?style=flat&logo=twitch&logoColor=white&color=%236441a5&link=https%3A%2F%2Fwww.twitch.tv%2Fannielugames"></a>
 </p>
-<img align="right" alt="Coding" width="350" src="https://github.com/AnaLuisaFav/AnaLuisaFav/assets/125583157/0e2748e2-1923-4ae9-9121-cce87b2346b9" />
 
 <h3> ~ About me </h3>
 📚 &nbsp; Systems Analysis and Development student 4/5.<br>
 👩🏻‍💻 &nbsp; Working as an intern in the quality area (QA), focusing on test automation in Python.<br>
 ✨ &nbsp; Front-end development skills.<br>
 ✏️ &nbsp; I'm constantly looking to learn more, both in QA and development. I always dedicate myself to studying something new in my area.
+<img align="right" alt="Coding" width="350" src="https://github.com/AnaLuisaFav/AnaLuisaFav/assets/125583157/0e2748e2-1923-4ae9-9121-cce87b2346b9" />
 
 <h3> ~ Curiosities </h3>
 🦋 &nbsp; Before following the path of technology, I graduated in biology 💚<br>
