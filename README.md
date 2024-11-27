@@ -9,7 +9,7 @@
 
 <h3> ~ About me </h3>
 📚 &nbsp; Systems Analysis and Development student 4/5.<br>
-👩🏻‍💻 &nbsp; Working as an intern in the quality area (QA), focusing on test automation in Python.<br>
+👩🏻‍💻 &nbsp; Working as QA Jr, focusing on test automation in Python.<br>
 ✨ &nbsp; Front-end development skills.<br>
 ✏️ &nbsp; I'm constantly looking to learn more, both in QA and development. I always dedicate myself to studying something new in my area.
 <img align="right" alt="Coding" width="350" src="https://github.com/AnaLuisaFav/AnaLuisaFav/assets/125583157/0e2748e2-1923-4ae9-9121-cce87b2346b9" />
