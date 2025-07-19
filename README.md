@@ -8,18 +8,15 @@
 </p>
 
 <h3> ~ About me </h3>
-📚 &nbsp; Graduated in Systems Analysis and Development<br>
-👩🏻‍💻 &nbsp; Working as QA Jr, focusing on test automation with Cypress.<br>
-✨ &nbsp; Front-end development skills.<br>
-✏️ &nbsp; I'm constantly looking to learn more, both in QA and development. I always dedicate myself to studying something new in my area.
+• Graduated in Systems Analysis and Development<br>
+• Working as QA, focusing on test automation.<br>
+• Front-end development skills.<br>
+• Constantly looking to learn more about software testing and development. ♡ 
 <img align="right" alt="Coding" width="350" src="https://github.com/AnaLuisaFav/AnaLuisaFav/assets/125583157/0e2748e2-1923-4ae9-9121-cce87b2346b9" />
-
-<h3> ~ Curiosities </h3>
-🦋 &nbsp; Before following the path of technology, I graduated in biology 💚<br>
-🐱 &nbsp; I love cats and dogs 🐶
 
 <h3> 💻 &nbsp;Tech Stack</h3>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-brightgreen?style=flat&logo=html5&logoColor=white&color=%23ec762e"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS_3-brightgreen?style=flat&logo=css3&logoColor=white&color=%232992c9"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-brightgreen?style=flat&logo=bootstrap&logoColor=white&color=%23563D7C"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-brightgreen?style=flat&logo=javascript&logoColor=white&color=%23efd81d"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-brightgreen?style=flat&logo=java%20oracle&logoColor=white&color=%234e7d9a"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-brightgreen?style=flat&logo=python&logoColor=white&color=%234072a1"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Qase-brightgreen?style=flat&logo=qase&logoColor=white&color=%234f46dc"> <img alt="Static Badge" src="https://img.shields.io/badge/Jira-brightgreen?style=flat&logo=Jira&logoColor=white&color=%230A0FFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/Postman-brightgreen?style=flat&logo=postman&logoColor=white&color=%23FF6C37"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-brightgreen?style=flat&logo=mysql&logoColor=white&color=%23015c87"> <img alt="Static Badge" src="https://img.shields.io/badge/Cypress-brightgreen?style=flat&logo=cypress&logoColor=white&color=%2377b29e"> <img alt="Static Badge" src="https://img.shields.io/badge/Git-brightgreen?style=flat&logo=git&logoColor=white&color=%23FF6C37">
+<img alt="Static Badge" src="https://img.shields.io/badge/Playwright-brightgreen?style=flat&logo=playwright&logoColor=white&color=%1c8921">
