@@ -9,9 +9,9 @@
 
 <h3> ~ About me </h3>
 • Graduated in Systems Analysis and Development<br>
-• Working as QA, focusing on test automation.<br>
-• Front-end development skills.<br>
-• Constantly looking to learn more about software testing and development. ♡ 
+• Working as QA, focusing on test automation<br>
+• Front-end development skills<br>
+• Constantly looking to learn more about software testing and development ♡ 
 <img align="right" alt="Coding" width="350" src="https://github.com/AnaLuisaFav/AnaLuisaFav/assets/125583157/0e2748e2-1923-4ae9-9121-cce87b2346b9" />
 
 <h3> 💻 &nbsp;Tech Stack</h3>
